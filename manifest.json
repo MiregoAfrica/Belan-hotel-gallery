@@ -1,0 +1,17 @@
+{
+  "rooms": [
+    "rooms/room1.jpg",
+    "rooms/room2.jpg",
+    "rooms/room3.jpg"
+  ],
+  "restaurant": [
+    "restaurant/food1.jpg",
+    "restaurant/food2.jpg",
+    "restaurant/food3.jpg"
+  ],
+  "conference": [
+    "conference/meeting1.jpg",
+    "conference/meeting2.jpg",
+    "conference/meeting3.jpg"
+  ]
+}
