@@ -2,16 +2,34 @@
   "rooms": [
     "rooms/room1.jpg",
     "rooms/room2.jpg",
-    "rooms/room3.jpg"
+    "rooms/room3.jpg",
+    "rooms/room4.jpg",
+    "rooms/room5.jpg",    
+    "rooms/room6.jpg",
+    "rooms/room7.jpg",
+    "rooms/room8.jpg",
+    "rooms/room9.jpg",
+    "rooms/room10.jpg",
+    "rooms/room11.jpg",
+    "rooms/room12.jpg"
   ],
   "restaurant": [
     "restaurant/food1.jpg",
     "restaurant/food2.jpg",
-    "restaurant/food3.jpg"
+    "restaurant/food3.jpg",
+    "restaurant/food4.jpg",
+    "restaurant/food5.jpg",
+    "restaurant/food6.jpg",
+    "restaurant/food7.jpg",
+    "restaurant/food8.jpg",
+    "restaurant/food9.jpg",
+    "restaurant/food10.jpg"
   ],
   "conference": [
     "conference/meeting1.jpg",
     "conference/meeting2.jpg",
-    "conference/meeting3.jpg"
+    "conference/meeting3.jpg",
+    "conference/meeting4.jpg",
+    "conference/meeting5.jpg"
   ]
 }
